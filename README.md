@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 dhtmlxScheduler with NodeJs
 ===================
 
@@ -21,3 +22,6 @@ App expects to find the mongoDB on localhost, you can change the server address 
 =======
 # espacocarbelle.github.io
 >>>>>>> 59dc5b00ca6d39ed4c2e37afbb7eb4451bc0151f
+=======
+# espacocarbelle.github.io
+>>>>>>> e518545346c8862ccd13d644c15bca33e45e6274
