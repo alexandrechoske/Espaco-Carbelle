@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dhtmlxScheduler with NodeJs
 ===================
 
@@ -17,3 +18,6 @@ after that, open in a browser http://localhost:3000/init to generate a test data
 ### DB config
 
 App expects to find the mongoDB on localhost, you can change the server address in the app.js 
+=======
+# espacocarbelle.github.io
+>>>>>>> 59dc5b00ca6d39ed4c2e37afbb7eb4451bc0151f
